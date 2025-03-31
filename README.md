@@ -10,7 +10,7 @@ A simple Artificial Neural Network (ANN) model for handwritten digit classificat
 
 ## 🚀 Getting Started  
 1. Open the notebook in Google Colab:  
-   [![Open in Colab](https://colab.research.google.com/github/CyberKnight4269/MNIST-ANN/blob/main/MNIST_using_ANN.ipynb)
+   [![Open in Colab]([https://colab.research.google.com/github/CyberKnight4269/MNIST-ANN/blob/main/MNIST_using_ANN.ipynb](https://colab.research.google.com/github/CyberKnight4269/MNIST-ANN/blob/main/MNIST_using_ANN.ipynb))
 2. Add the train and test datasets. Download here(https://www.kaggle.com/datasets/oddrationale/mnist-in-csv)
 3. Change the path of the datasets accordingly.
 4. Run all cells to train and evaluate the model.
